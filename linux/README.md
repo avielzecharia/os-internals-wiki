@@ -5,10 +5,10 @@
 * ptrace (syscall hooking, code injection, debugging, etc.)
 * gdb
   
-## Random ##
+## Buzzwords ##
 * LD_PRELOAD (RTLD_NEXT)
 * LSM hooks
-* eBPF [only on boot]
+* eBPF
 * ELF format (GOT, PLT, PIE, RELO)
 * seliux, setenforce binary
 * syscall - int 0x80 (with stable syscall code)
@@ -20,8 +20,8 @@
 * LKRG – Linux Kernel Runtime Guard
 * /dev/null
 * Magisk
-* common data structures: inode, super_block, module_list, task_struct, cred
-* common syscalls: open, write, read, stat, ptrace, insmod, execve, fork, mount (int 0x80)
+* Common data structures: inode, super_block, module_list, task_struct, cred
+* Common syscalls: open, write, read, stat, ptrace, insmod, execve, fork, mount (int 0x80)
 
 ## Blogs ##
 * https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist
