@@ -18,6 +18,7 @@
 * fs-verity (Merkle tree), dm-verity
 * GKI, open source kernel distributions
 * APEX + ART dynamic updating
+* Magisk
 * Shared Preferences
 * GMS, safetynet, droidguard
   * https://www.blackhat.com/docs/eu-17/materials/eu-17-Mulliner-Inside-Androids-SafetyNet-Attestation.pdf

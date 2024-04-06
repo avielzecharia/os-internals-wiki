@@ -22,6 +22,7 @@
   * syscall wow64cpu->eoe64win->wow64, filesystem system32->syswow64, registry ->wow6432node
 * PTE (NXbit, COW), PFN, VAD, SLAT
   * https://web.archive.org/web/20191028184211/https://cdn2.hubspot.net/hubfs/487909/Turning%20(Page)%20Tables_Slides.pdf
+  * https://codemachine.com/articles/prototype_ptes.html
 * PPL - Protected Process Light
   * https://itm4n.github.io/lsass-runasppl/
 * win32k
@@ -30,6 +31,7 @@
 * TPM - Trusted Platform Module (TCG Log)
 * MiniFilters - fltmc, !fltkd, FltMgr.sys, FltRegisterFilter syscall
   * https://www.osr.com/nt-insider/2019-issue1/the-state-of-windows-file-system-filtering-in-2019/
+  * https://github.com/microsoft/Windows-driver-samples/tree/main/filesys/miniFilter/avscan
 * Access Token, Permissions (DACL), UAC
   * https://www.elastic.co/blog/introduction-to-windows-tokens-for-security-practitioners
 * Registry Callback (cm)
@@ -37,6 +39,7 @@
   * https://blog.trailofbits.com/2023/11/22/etw-internals-for-security-research-and-forensics/
 * UMCI - Code Integrity
   * https://www.cybereason.com/blog/code-integrity-in-the-kernel-a-look-into-cidll
+  * https://www.youtube.com/watch?v=3-bWqeTpSBg
 * VBS - Virtualization Based Security [VTL, truslet, SecureKernel, root partition]
 * Process Injection
   * https://www.elastic.co/blog/ten-process-injection-techniques-technical-survey-common-and-trending-process
@@ -60,6 +63,9 @@
   * https://www.codeproject.com/Articles/13601/COM-in-plain-C
 * Syscall, LSTAR, SSDT
   * https://alice.climent-pommeret.red/posts/a-syscall-journey-in-the-windows-kernel/
+* KDP - Kernel Data Protection
+  * https://www.microsoft.com/en-us/security/blog/2020/07/08/introducing-kernel-data-protection-a-new-platform-security-technology-for-preventing-data-corruption
+
 
 ## Protocols ##
 * NTLM (Domain Controller)

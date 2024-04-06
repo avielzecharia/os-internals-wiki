@@ -19,7 +19,6 @@
 * /proc (and Virtual FS in general)
 * LKRG – Linux Kernel Runtime Guard
 * /dev/null
-* Magisk
 * Common data structures: inode, super_block, module_list, task_struct, cred
 * Common syscalls: open, write, read, stat, ptrace, insmod, execve, fork, mount (int 0x80)
 
