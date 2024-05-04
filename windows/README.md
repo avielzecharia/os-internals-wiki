@@ -8,7 +8,7 @@
 * rundll, sc, bcdedit
 * WinDbg, TTD
   * https://github.com/yardenshafir/WinDbg_Scripts
-* IDA
+* IDA, dnSpy, ILSpy
 * CFF Explorer
 
 ## Buzzwords ##

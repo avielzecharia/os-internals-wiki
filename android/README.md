@@ -3,6 +3,7 @@
 ## Tools ##
 * useful binaries: dumpsys, logcat, adb, am ,content
 * Frida, Xposed
+* JEB
   
 ## Buzzwords ##
 * ARM architecture, Trustzone

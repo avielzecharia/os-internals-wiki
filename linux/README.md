@@ -24,3 +24,4 @@
 
 ## Blogs ##
 * https://book.hacktricks.xyz/linux-hardening/linux-privilege-escalation-checklist
+* https://fareedfauzi.github.io/2024/03/29/Linux-Forensics-cheatsheet.html
